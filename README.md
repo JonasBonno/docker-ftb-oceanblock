@@ -1,4 +1,4 @@
-# ftb-oceanblock - latest
+# ftb-oceanblock
 Feed The Beast OceanBlock modpack
 made by Feed The Beast at https://feed-the-beast.com
 
