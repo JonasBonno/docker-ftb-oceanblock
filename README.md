@@ -2,7 +2,7 @@
 Feed The Beast OceanBlock modpack
 made by Feed The Beast at https://feed-the-beast.com
 
-Modpack for Minecraft 1.16 with Log4jPatcher.</br>
+Modpack for Minecraft 1.16.5 with Log4jPatcher.</br>
 OceanBlock is a new, unique modpack created by the FTB Team inspired by the countless island-based modpacks.</br>
 “Enjoy” the lack of ability to swim, follow over 550 quests that will guide you through this wet and wild journey, along with a whole new crafting system, tempered jars!
 
